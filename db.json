@@ -1,11 +1,70 @@
 {
   "users": [
     {
-      "email": "kenzinho@mail.com",
-      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
-      "name": "Kenzinho",
-      "age": 38,
+      "email": "ana@gmail.com",
+      "password": "$2a$10$QfZ0gKFUyULF7LQiylQaMeKkV9ctMHSamIdSWme.Rx3JGeKgcdDmq",
+      "phone": "12345678",
+      "avatar": "https://img.freepik.com/vetores-premium/o-avatar-do-perfil-de-usuario-feminino-e-uma-mulher-um-personagem-para-um-protetor-de-tela-com-emocoes_505620-617.jpg",
+      "social_network": "facebook.com",
       "id": 1
+    },
+    {
+      "email": "maria@gmail.com",
+      "password": "$2a$10$GFSbmnz.v4/TuvXflmX2gOJGQwy138SNkNEBYg2CXdEunIwvOEITO",
+      "phone": "12345678",
+      "avatar": "https://thumbs.dreamstime.com/b/%C3%ADcone-f%C3%AAmea-do-avatar-no-estilo-liso-%C3%ADcone-f%C3%AAmea-do-usu%C3%A1rio-91462850.jpg",
+      "social_network": "instagram.com",
+      "id": 2
+    },
+    {
+      "email": "pedro@gmail.com",
+      "password": "$2a$10$qs/rmZS7jZx5MmtGGDsXIOUaI2V1n6M6bRfT58kd2eAwDhT6929di",
+      "phone": "12345678",
+      "avatar": "https://www.pikpng.com/pngl/m/340-3409421_bonecos-png-user-account-clipart.png",
+      "social_network": "twitter.com",
+      "id": 3
+    }
+  ],
+  "itens": [
+    {
+      "status": "lost",
+      "image": "https://www.istoedinheiro.com.br/wp-content/uploads/sites/17/2022/04/rg-novo.jpg",
+      "name": "RG",
+      "description": "RG perdido segunda-feira, por volta das 11 h, na Av. FAB em frente ao colégio amapaense",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "status": "found",
+      "image": "https://memorybrindes.com.br/wp-content/uploads/2021/12/relogio-pulso-personalizado-7252a.jpg",
+      "name": "Relógio",
+      "description": "Relógio encontrado quinta-feira, por volta das 11 h, na Av. FAB em frente ao colégio amapaense.",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "status": "lost",
+      "image": "https://images.tcdn.com.br/img/img_prod/848976/pulseira_infinito_em_ouro_18k_20cm_3719_1_35c43313395dac52c0af44ddb9d69f6b.jpeg",
+      "name": "Pulseira",
+      "description": "Pulseira perdida domingo, por volta das 15 h, na Av. FAB em frente ao colégio amapaense.",
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "status": "lost",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_665688-MLA41960383655_052020-O.jpg",
+      "name": "Tablet Tab A Samsung ",
+      "description": "Tablet esquecido sábado, por volta das 15 h, na Av. FAB em frente ao colégio amapaense.",
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "status": "found",
+      "image": "https://i.zst.com.br/thumbs/12/3/1b/5847025.jpg",
+      "name": "Calculadora científica CASIO ",
+      "description": "Calculadora científica encontrada no dia 28/08/2022, por volta das 16 h, em frente a parada de ônibus da UNIFAP.",
+      "userId": 3,
+      "id": 5
     }
   ]
 }

@@ -66,5 +66,55 @@
       "userId": 3,
       "id": 5
     }
+  ],
+  "claim": [
+    {
+      "user_required": {
+        "email": "ana@gmail.com",
+        "phone": "12345678",
+        "social_network": "facebook.com",
+        "item": {
+          "status": "lost",
+          "image": "https://www.istoedinheiro.com.br/wp-content/uploads/sites/17/2022/04/rg-novo.jpg",
+          "name": "RG",
+          "description": "RG perdido segunda-feira, por volta das 11 h, na Av. FAB em frente ao colégio amapaense",
+          "userId": 1,
+          "id": 1
+        }
+      },
+      "user_applicant": {
+        "email": "maria@gmail.com",
+        "phone": "12345678",
+        "social_network": "facebook.com",
+        "description": "Encontrei esse RG no mesmo dia e estou de posse do mesmo",
+        "image": "https://www.istoedinheiro.com.br/wp-content/uploads/sites/17/2022/04/rg-novo.jpg"
+      },
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "user_required": {
+        "email": "ana@gmail.com",
+        "phone": "12345678",
+        "social_network": "facebook.com",
+        "item": {
+          "status": "lost",
+          "image": "https://www.istoedinheiro.com.br/wp-content/uploads/sites/17/2022/04/rg-novo.jpg",
+          "name": "RG",
+          "description": "RG perdido segunda-feira, por volta das 11 h, na Av. FAB em frente ao colégio amapaense",
+          "userId": 1,
+          "id": 1
+        }
+      },
+      "user_applicant": {
+        "email": "pedro@gmail.com",
+        "phone": "12345678",
+        "social_network": "facebook.com",
+        "description": "Encontrei esse RG no dia 29/08 e estou de posse do mesmo",
+        "image": "https://www.istoedinheiro.com.br/wp-content/uploads/sites/17/2022/04/rg-novo.jpg"
+      },
+      "userId": 3,
+      "id": 2
+    }
   ]
 }

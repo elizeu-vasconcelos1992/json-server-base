@@ -29,9 +29,9 @@ Resposta
 	"accessToken": string,
 	"user": {
 		"email": string,
-	    "phone": string,
-	    "avatar": string,
-	    "social_network": string,
+		"phone": string,
+		"avatar": string,
+		"social_network": string,
 		"id": number
 	}
 }
@@ -61,9 +61,9 @@ Resposta
 	"accessToken": string,
 	"user": {
 		"email": string,
-	    "phone": string,
-	    "avatar": string,
-	    "social_network": string,
+		"phone": string,
+		"avatar": string,
+		"social_network": string,
 		"id": number
 	}
 }

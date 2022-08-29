@@ -250,6 +250,6 @@ Resposta
 	"phone": string,
 	"avatar": string,
 	"social_network": string,
-    "id": number
+	"id": number
 }
 ```
